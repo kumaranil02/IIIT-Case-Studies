@@ -7,3 +7,5 @@ Referes to MovieAnalysis. This is typically a pandas data wrangling case study t
 Bank Marketing dataset :  Pivot tables, and PDcut(method) to analyse the labes and etc.
 
 #Graded Question on EDA: Retail ladies clothing data.
+
+#Flipkart webscapping demo graded questions
