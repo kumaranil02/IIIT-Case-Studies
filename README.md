@@ -9,3 +9,5 @@ Bank Marketing dataset :  Pivot tables, and PDcut(method) to analyse the labes a
 #Graded Question on EDA: Retail ladies clothing data.
 
 #Flipkart webscapping demo graded questions
+
+#Plotting distributions. Univariate Analysis
